@@ -3,7 +3,7 @@
 Official implementation of **ED-YOLO: A YOLOv11-Based Robust Road Object Detection Network for Autonomous Driving Scenarios**.
 
 ED-YOLO is a lightweight road-object detection network built on YOLOv11-N for autonomous-driving scenarios. It introduces learnable edge enhancement, detail-preserving feature fusion, global–local sparse attention, dynamic upsampling, and a task-aligned decoupled detection head to improve detection performance for occluded objects, small distant targets, and complex road scenes.
-
+docs/c5118d67-4b14-4a5b-aa04-a71e4e76c8b7.png
 ## Main Components
 
 The main modules of ED-YOLO are implemented in the following files:
